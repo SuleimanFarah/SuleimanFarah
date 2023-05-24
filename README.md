@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Suleiman's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SuleimanFarah&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/SuleimanFarah/github-readme-stats#gh-dark-mode-only)
 
 
-[![Tech Stack:]
+Current Well-Developed and Growing Tech Stack:
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
